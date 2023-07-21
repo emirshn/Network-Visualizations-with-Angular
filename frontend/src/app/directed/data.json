@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "group": 0,
+      "ipAddress": "192.168.0.1",
+      "macAddress": "00:00:00:00:00:00",
+      "deviceType": "Router",
+      "operatingSystem": "Linux",
+      "protocol": "TCP/IP"
+    },
+    {
+      "id": "node1",
+      "group": 1,
+      "ipAddress": "192.168.0.2",
+      "macAddress": "00:00:00:00:00:01",
+      "deviceType": "Switch",
+      "operatingSystem": "Cisco IOS",
+      "protocol": "Ethernet"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node1",
+      "traffic": 0,
+      "bandwidth": 100,
+      "latency": 10
+    }
+  ]
+}

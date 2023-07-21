@@ -1,0 +1,18 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "node1",
+      "children": []
+    },
+    {
+      "name": "Switch 0.44",
+      "children": [
+        {
+          "name": "Firewall 0.29",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

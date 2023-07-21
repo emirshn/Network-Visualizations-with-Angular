@@ -1,0 +1,19 @@
+.statistics {
+  margin-top: 20px;
+}
+
+.statistics h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.statistics ul {
+  list-style: none;
+  padding: 0;
+}
+
+.statistics li {
+  margin-bottom: 5px;
+}
+
+

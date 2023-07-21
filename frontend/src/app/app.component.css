@@ -1,0 +1,39 @@
+/* Styles for the app container */
+.app-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    margin: 30px;
+   /* height: 400px;*/ 
+  }
+  
+  /* Styles for the app-directed component */
+  app-directed {
+    flex: 1; /* Allow the component to grow and take up available space */
+  }
+  
+  /* Styles for the app-leafmap component */
+  app-leafmap {
+    flex: 1; /* Allow the component to grow and take up available space */
+    position: relative; /* Keep the relative positioning for .map-container */
+    margin: 0; /* Remove the margin set in .map-container */
+  }
+  
+  .map-container {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0px;
+  }
+  
+  .map-frame {
+    border: 2px solid black;
+    height: 100%;
+  }
+  
+  #map {
+    height: 100%;
+  }
+  
