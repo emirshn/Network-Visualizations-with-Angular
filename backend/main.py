@@ -35,7 +35,7 @@ async def post_network_info(network_data: dict):
 @app.get("/ips")
 def get_ips():
     global network
-    api_key = "3d27f7ce1b98e2"
+    api_key = ""
     active_ips, unused_ips, geolocation_data, random_points = find_active_and_inactive_ips(api_key)
     print("Geolocation Data:", geolocation_data)
     response = {
