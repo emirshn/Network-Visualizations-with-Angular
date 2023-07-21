@@ -3,12 +3,13 @@ My learning of visualizations of network and data for Internship.
 
 Things i done with D3, Angular, Fastapi, Leafnet:
 ## Zoomable sunburst chart
-![image](https://github.com/emirshn/network-visualizations/assets/64266261/d9a56b82-652d-41f7-8dea-315e6eb46753)
+![image](https://github.com/emirshn/network-visualizations/assets/64266261/692d4160-53b0-49bb-99a4-0edaab2ff5f3)
+![image](https://github.com/emirshn/network-visualizations/assets/64266261/94b3f905-46b2-485c-bdfe-5606b533e0d0)
 ## Heatmap
-![image](https://github.com/emirshn/network-visualizations/assets/64266261/d11a9416-226d-4820-9cc5-d8268f42e59c)
+![image](https://github.com/emirshn/network-visualizations/assets/64266261/fa3cc023-945f-44b8-9324-d1d7729dc406)
 ## Network Topology
-![image](https://github.com/emirshn/network-visualizations/assets/64266261/403f9a44-d8a5-4f08-adfa-fff0f7d7da39)
+![image](https://github.com/emirshn/network-visualizations/assets/64266261/b632cec1-afd8-495b-902d-acab23f83043)
 ## IP Availability Heatmap
-![image](https://github.com/emirshn/network-visualizations/assets/64266261/63f19b73-ac9b-4106-af2f-fea967ca0143)
+![image](https://github.com/emirshn/network-visualizations/assets/64266261/3891ad75-297f-439e-935f-f49aad326183)
 ## Realtime visualization of Network Topology on Leafnet Map
-![image](https://github.com/emirshn/network-visualizations/assets/64266261/4b4e4429-8188-46b5-90ad-1dd3fc23ba60)
+![image](https://github.com/emirshn/network-visualizations/assets/64266261/450458c3-b768-4614-90f9-269446ad4605)
